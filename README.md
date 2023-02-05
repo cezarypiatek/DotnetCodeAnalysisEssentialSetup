@@ -35,15 +35,15 @@ Add [Directory.Build.props](https://learn.microsoft.com/en-us/visualstudio/msbui
 
 ### Using dedicated editor for .editorconfig
 
-![](setup_editorconfig.png)
+![](setup_editorconfig.jpg)
 
 ### Using solution explorer
 
-![](setup_solution_explorer.png)
+![](setup_solution_explorer.jpg)
 
 ### Directly from code editor
 
-![](setup_code_editor.png)
+![](setup_code_editor.jpg)
 
 ### Manually edit `.editorconfig` file
 
